@@ -1,0 +1,53 @@
+Initialize engine version: 5.1.1f1 (2046fc06d4d8)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 670M (ID=0x1213)
+    Vendor:   NVIDIA
+    VRAM:     3019 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity projects\Tests Multi\Builds\Build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity projects\Tests Multi\Builds\Build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity projects\Tests Multi\Builds\Build_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity projects\Tests Multi\Builds\Build_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity projects\Tests Multi\Builds\Build_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity projects\Tests Multi\Builds\Build_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity projects\Tests Multi\Builds\Build_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity projects\Tests Multi\Builds\Build_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Unity projects\Tests Multi\Builds\Build_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Unity projects\Tests Multi\Builds\Build_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.093 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\Unity projects\Tests Multi\Builds\Build_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity projects\Tests Multi\Builds\Build_Data\Managed\System.dll (this message is harmless)
+Trying to sync champs
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Failed to spawn server object, assetId=86b99472d5914849a811c71209c83ab netId=3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Failed to spawn server object, assetId=f8bc92bb93ca3124e8e2b061e682b3 netId=4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Let's attack !
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Let's attack !
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Let's attack !
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Let's attack !
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
